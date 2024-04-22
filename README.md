@@ -58,3 +58,6 @@ def _extract_main_content(self, soup: BeautifulSoup) -> str:
 
         return ""
 ```
+
+
+For more info: [LINK](https://github.com/phidatahq/phidata/tree/main/cookbook/llms/ollama/rag)
